@@ -8,16 +8,16 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/DevJP777/tea-chalange.git"
+    "url": "https://github.com/DevJP777/chainXplorer.git"
   }, 
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/DevJP777/tea-chalange/issues"
+    "url": "https://github.com/DevJP777/chainXplorer/issues"
   },
-  "homepage": "https://github.com/DevJP777/tea-chalange",
-  "source": "https://github.com/DevJP777/tea-chalange.git",
-  "Source": "https://github.com/DevJP777/tea-chalange.git",
+  "homepage": "https://github.com/DevJP777/chainXplorer",
+  "source": "https://github.com/DevJP777/chainXplorer.git",
+  "Source": "https://github.com/DevJP777/chainXplorer.git",
   "dependencies": {
     "alchemy-sdk": "^3.1.2",
     "axios": "^1.6.7",
